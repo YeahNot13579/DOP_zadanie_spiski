@@ -1,0 +1,28 @@
+div{
+    border: 1px deeppink solid;
+    padding: 10px;
+    margin: 10px;
+    background:pink;
+}
+ol{
+  
+    margin: 10px;
+    padding: 10px;
+}
+li{
+    color: white;
+    background: deeppink;
+    margin: 10px;
+    padding: 10px;
+    list-style-position: inside;
+}
+p{
+    background: pink;
+    margin: 10px;
+    padding: 10px;
+}
+span{
+   background: rgb(167,34,107);
+    margin: 10px;
+    padding: 10px;
+}
